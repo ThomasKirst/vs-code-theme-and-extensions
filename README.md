@@ -24,7 +24,7 @@ An extension that hosts a local server for you to preview your web projects on!
 
 => Instantly visualize css colors in your css[…] files
 
-[colorize Extension](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+[colorize extension](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 
 ## material icon theme
 
@@ -52,7 +52,7 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 
 ## GitLens
 
-=> Extended git funtionalities
+=> Extended git functionalities
 
 ## PHP / Java Extensions
 
