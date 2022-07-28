@@ -2,7 +2,7 @@
 
 ## moonlight
 
-=> A VS Code theme with bubblegum colors on a moonlit background.
+A VS Code theme with bubblegum colors on a moonlit background.
 
 [moonlight theme](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
 
@@ -22,13 +22,13 @@ An extension that hosts a local server for you to preview your web projects on!
 
 ## colorize
 
-=> Instantly visualize css colors in your css[…] files
+Instantly visualize css colors in your css[…] files
 
 [colorize extension](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 
 ## material icon theme
 
-=> Get the Material Design icons into your VS Code (used for files and folders)
+Get the Material Design icons into your VS Code (used for files and folders)
 
 [material icon theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -40,7 +40,7 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 
 ## todo tree
 
-=> This extension quickly searches […] your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the activity bar.
+This extension quickly searches […] your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the activity bar.
 
 [todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
@@ -48,12 +48,12 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 
 !!! This project started on 3 Dec 2016. Now 5 years later, it has become a native feature in VSCode.
 
-=> This extension allows matching brackets to be identified with colours.
+This extension allows matching brackets to be identified with colours.
 
 ## GitLens
 
-=> Extended git functionalities
+Extended git functionalities
 
 ## PHP / Java Extensions
 
-=> Not needed right now
+Not needed right now
